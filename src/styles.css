@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+  .loader {vertical-align: middle;
+      text-align: center;
+      color: #129DD8;
+      border-style: none;
+      margin: 0;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-right: -50%;
+      transform: translate(-50%, -50%);      
+  }
